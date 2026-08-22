@@ -67,12 +67,7 @@ RAID **no reemplaza un respaldo (backup)**. RAID 1 protege principalmente ante l
 
 Las pruebas deben realizarse primero en un entorno de laboratorio y después trasladarse a producción mediante una ventana de mantenimiento planificada.
 
-## 6. Enlaces de entrega
-
-- **Repositorio GitHub:** PENDIENTE
-- **Video de defensa:** PENDIENTE
-
-## 7. Autores
+## 6. Autores
 
 ### Cesar Israel Amaya Carias
 Responsable de análisis de almacenamiento, propuesta RAID 1 y coordinación general.
